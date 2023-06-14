@@ -15,8 +15,7 @@
 
 :white_check_mark: Первичный EDA
  
-:black_square_button: Разработка гипотез
+:white_check_mark: Проверка гипотез
 
-:black_square_button: Создание новых признаков
 
-:black_square_button: Машинное обучение
+:white_check_mark:Машинное обучение
